@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>🎮 Mario</title>
+    </head>
+    <body>
+        <div id="mario">
+           <!-- <label for="debug">
+               <input type="checkbox" id="debug" />
+                Debug
+            </label> -->
+            <div class="score">Score: <span class="score-amount">0</span></div>
+            <!-- <div class="game-over">Game Over</div> -->
+        </div>
+
+        <script src="//cdn.jsdelivr.net/npm/phaser@3.51.0/dist/phaser.min.js"></script>
+
+        <script src="./src/config/animations.js"></script>
+        <script src="./src/ui/increaseScore.js"></script>
+        <script src="./src/gameObjects/Player.js"></script>
+        <script src="./src/gameObjects/Debugger.js"></script>
+        <script src="./src/gameObjects/Goomba.js"></script>
+        <script src="./src/gameObjects/Coin.js"></script>
+        <script src="./src/gameObjects/Flag.js"></script>
+        <!-- <script src="./src/config/tiles.js"></script> -->
+        <!-- <script src="./src/config/animations.js"></script> -->
+
+        <script src="./src/buttons/button.js"></script>
+        <script src="./src/buttons/play-button.js"></script>
+
+        <script src="./src/scenes/Menu.js"></script>
+        <script src="./src/scenes/Game.js"></script>
+        <script src="./src/scenes/GameOver.js"></script>
+
+        <link href="./src/assets/scss/index.scss" />
+        <script src="src/index.js"></script>
+    </body>
+</html>

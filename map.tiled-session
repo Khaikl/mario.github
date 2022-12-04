@@ -1,0 +1,85 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "src/assets/mario-map.tmx",
+    "expandedProjectPaths": [
+        "src/assets/json",
+        "src/assets",
+        "src",
+        "."
+    ],
+    "file.lastUsedOpenFilter": "All Files (*)",
+    "fileStates": {
+        "#map-tileset": {
+            "scaleInDock": 3
+        },
+        "D:/file nen/mario-master/mario-master/src/assets/mario-map.tmx": {
+            "scale": 2,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1016.75,
+                "y": 269.75
+            }
+        },
+        "D:/file nen/mario-master/mario-master/src/assets/mario-map.tmx#map-tileset": {
+            "scaleInDock": 1
+        },
+        "src/assets/json/map.json": {
+            "expandedObjectLayers": [
+                5,
+                4,
+                3
+            ],
+            "scale": 1,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 1279.5,
+                "y": 240.5
+            }
+        },
+        "src/assets/json/map.json#map-tileset": {
+            "scaleInDock": 3
+        },
+        "src/assets/mario-map.tmx": {
+            "expandedObjectLayers": [
+                4
+            ],
+            "scale": 0.5,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 1259,
+                "y": 251
+            }
+        },
+        "src/assets/mario-map.tmx#map-tileset": {
+            "scaleInDock": 3
+        }
+    },
+    "last.imagePath": "D:/file nen/mario-master (4)/mario-master/src/assets/img",
+    "map.height": 30,
+    "map.lastUsedFormat": "json",
+    "map.layerDataFormat": null,
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "map.width": 160,
+    "openFiles": [
+        "src/assets/json/map.json",
+        "src/assets/mario-map.tmx",
+        "D:/file nen/mario-master/mario-master/src/assets/mario-map.tmx"
+    ],
+    "project": "map.tiled-project",
+    "recentFiles": [
+        "src/assets/json/map.json",
+        "D:/file nen/mario-master/mario-master/src/assets/mario-map.tmx",
+        "src/assets/mario-map.tmx"
+    ],
+    "tileset.embedInMap": true,
+    "tileset.margin": 1,
+    "tileset.spacing": 1,
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    }
+}
